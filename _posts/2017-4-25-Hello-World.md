@@ -1,6 +1,6 @@
 ---
-layout: 
-post title: The Blog
+layout: post 
+title: The Blog
 ---
 
 This site is a project to improve my writing. My grammar and spelling are degrading. I'm less concerned about prose because it was barely there to begin with. I'm doing this blog to make me write more often. I just need to increase the volume of my writing so I can improve it. 
