@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: A Review of Pocketcasts for Android (April 2017)
+title: Pocketcasts for Android Review (April 2017)
 ---
 
 My requisites for a podcast app is a good interface, dark mode, autodownloading, a way to speed things up, and a way to listen to my audiobooks. Most podcast apps nails a lot of those things I just mentioned except for the first one or the last one. That's why after using pocketcasts for more than a year, I'm going to go through its many virtues and my nitpicky annoyances.
@@ -28,4 +28,4 @@ Now for some nitpicks, each time I add mp3s to the custom folder, they're all ma
 
 To end this post, I like to mention that the app is stable. This is the app I recommend when people ask for a good podcast app. It has all the features I want, and then some. I've also compiled screenshots of all the options in the settings for the people who want to know all the configurables below.
 
-
+![_config.yml]({{ site.baseurl }}/images/settings-complete.png)
