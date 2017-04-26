@@ -28,4 +28,4 @@ Now for some nitpicks, each time I add mp3s to the custom folder, they're all ma
 
 To end this post, I like to mention that the app is stable. This is the app I recommend when people ask for a good podcast app. It has all the features I want, and then some. I've also compiled screenshots of all the options in the settings for the people who want to know all the configurables below.
 
-![_config.yml]({{ site.baseurl }}/images/settings-complete.png)
+![All the settings]/images/settings-complete.png)
