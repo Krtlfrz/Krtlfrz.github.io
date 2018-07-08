@@ -6,7 +6,7 @@
  -My requisites for a podcast app is a good interface, dark mode, autodownloading, a way to speed things up, and a way to listen to my audiobooks. Most podcast apps nails a lot of those things I just mentioned except for the first one or the last one. That's why after using pocketcasts for more than a year, I'm going to go through its many virtues and my nitpicky annoyances.
  -
  -Pocketcasts is straightforward, when you open the app, your next actions are clear, subscribe to an app from their recommendations or search through their database. 
- -
+-
  -The first time I installed the app, I immediately checked the settings and switched to the dark theme. I've always used pocketcasts in dark theme and I forget that it's not the default. Why even use the light theme?
  -
  -Let's start with the now playing interface, the buttons are nice, big, and configurable (settings), and it has chapters support:
